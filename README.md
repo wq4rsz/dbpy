@@ -16,5 +16,5 @@ It is a simple Python application that uses PyQt5 and SQLite to manage users. Th
 **Installation**
 
 1. Make sure that you have Python installed (version 3.8 or higher).
-2. Make sure that the PyQt5 library and sqlite3 are included in your Python installation.
+2. Make sure that the PyQt5 library and SQLite are included in your Python installation.
 3. Run the file using the command: `python main.py` or `python3 main.py` depending on your system.
