@@ -1,4 +1,4 @@
-#### Database
+## Database
 It is a simple Python application that uses PyQt5 and SQLite to manage users. The application allows you to add, delete and view users with their name, email address and password.
 
 **Functionality**
